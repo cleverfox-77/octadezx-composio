@@ -1,0 +1,36 @@
+{
+  "name": "@octadezx/composio",
+  "version": "0.1.1",
+  "description": "Composio integration bridge and Model Context Protocol (MCP) toolkit adapter for OctaDezx Agentic AI Customer Care, CRM, and E-Commerce Automation.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleverfox-77/octadezx-composio.git"
+  },
+  "keywords": [
+    "octadezx",
+    "composio",
+    "mcp",
+    "model-context-protocol",
+    "ai-agent",
+    "customer-support",
+    "crm",
+    "ecommerce",
+    "ai-chatbot",
+    "voice-agent",
+    "appointment-booking"
+  ],
+  "author": "OctaDezx Engineering <engineering@octadezx.com> (https://octadezx.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cleverfox-77/octadezx-composio/issues"
+  },
+  "homepage": "https://octadezx.com/developers",
+  "publishConfig": {
+    "access": "public"
+  }
+}
